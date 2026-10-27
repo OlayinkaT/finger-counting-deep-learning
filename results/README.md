@@ -13,3 +13,12 @@ ResNet50 achieved a test accuracy of **92.75%**, outperforming MobileNetV3, whic
 
 These results indicate that ResNet50 achieved stronger classification performance on the evaluated test set. MobileNetV3 provides a useful comparison with a more lightweight architecture.
 
+### Confusion Matrices
+
+#### ResNet50
+
+![ResNet50 confusion matrix](images/resnet50_confusion_matrix.png)
+
+#### MobileNetV3
+
+![MobileNetV3 confusion matrix](images/mobilenetv3_confusion_matrix.png)
