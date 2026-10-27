@@ -1,3 +1,11 @@
 # Project Images
 
-This folder contains visualisations and evaluation outputs generated during the finger-counting deep-learning project.
+### Confusion Matrices
+
+#### ResNet50
+
+![ResNet50 confusion matrix](./images/resnet50_confusion_matrix.png)
+
+#### MobileNetV3
+
+![MobileNetV3 confusion matrix](./images/mobilenetv3_confusion_matrix.png)
